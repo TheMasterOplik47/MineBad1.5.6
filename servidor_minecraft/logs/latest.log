@@ -865,3 +865,15 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:37:11] [Server thread/INFO]: Loading config from file...
 [20:37:11] [Server thread/INFO]: SimonPro74 joined the game
 [20:45:45] [Server thread/INFO]: [Not Secure] [Server] hola
+[20:56:06] [Server thread/INFO]: badbalta[/100.85.90.122:57108] logged in with entity id 5938 at (479.7720493102889, 69.0, -8750.399405239883)
+[20:56:06] [Server thread/INFO]: Loading config from file...
+[20:56:06] [Server thread/INFO]: badbalta joined the game
+[20:56:18] [Server thread/INFO]: badbalta lost connection: Disconnected
+[20:56:18] [Server thread/INFO]: badbalta left the game
+[20:57:08] [Server thread/INFO]: [Not Secure] [Server] hola
+[20:57:18] [Server thread/INFO]: badbalta[/100.85.90.122:57131] logged in with entity id 6370 at (479.7720493102889, 69.0, -8750.399405239883)
+[20:57:18] [Server thread/INFO]: Loading config from file...
+[20:57:18] [Server thread/INFO]: badbalta joined the game
+[20:57:43] [Server thread/INFO]: [badbalta: Set the weather to clear]
+[20:58:56] [Server thread/INFO]: [badbalta: Teleported badbalta to 718.500000, 96.500000, -8284.500000]
+[20:59:46] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
