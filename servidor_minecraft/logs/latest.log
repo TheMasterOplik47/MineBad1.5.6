@@ -878,3 +878,30 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:58:56] [Server thread/INFO]: [badbalta: Teleported badbalta to 718.500000, 96.500000, -8284.500000]
 [20:59:46] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
 [21:15:34] [Worker-Main-4/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[21:27:10] [Worker-Main-8/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[21:27:10] [Worker-Main-8/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[21:30:12] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[21:31:03] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[21:31:43] [Server thread/INFO]: badbalta lost connection: Disconnected
+[21:31:43] [Server thread/INFO]: badbalta left the game
+[21:31:54] [Server thread/INFO]: badbalta[/100.85.90.122:57205] logged in with entity id 20352 at (666.6354491290635, 134.0, -8716.956800084474)
+[21:31:54] [Server thread/INFO]: Loading config from file...
+[21:31:54] [Server thread/INFO]: badbalta joined the game
+[21:33:39] [Worker-Main-8/ERROR]: Hanging entity at invalid position: class_2338{x=-7, y=65, z=20}
+[21:33:39] [Worker-Main-8/ERROR]: Hanging entity at invalid position: class_2338{x=-3, y=65, z=23}
+[21:33:39] [Worker-Main-8/ERROR]: Hanging entity at invalid position: class_2338{x=-7, y=65, z=25}
+[21:33:39] [Worker-Main-8/ERROR]: Hanging entity at invalid position: class_2338{x=-5, y=65, z=24}
+[21:35:33] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[21:35:33] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[21:35:33] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[21:35:34] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[21:35:44] [Worker-Main-8/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[21:35:44] [Worker-Main-8/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[21:35:44] [Worker-Main-8/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[21:35:44] [Worker-Main-8/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[21:35:59] [Worker-Main-8/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[21:35:59] [Worker-Main-8/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[21:36:00] [Server thread/INFO]: Villager class_1646['Shepherd'/22517, l='ServerLevel[world]', x=1383.70, y=-65.00, z=-7153.50] died, message: 'Shepherd was killed'
+[21:36:00] [Server thread/INFO]: Villager class_1646['Fisherman'/22521, l='ServerLevel[world]', x=1390.73, y=-65.00, z=-7148.73] died, message: 'Fisherman was killed'
+[21:36:00] [Server thread/INFO]: Villager class_1646['Toolsmith'/22525, l='ServerLevel[world]', x=1385.41, y=-65.00, z=-7151.84] died, message: 'Toolsmith was killed'
+[21:36:00] [Server thread/INFO]: Villager class_1646['Librarian'/22526, l='ServerLevel[world]', x=1385.24, y=-65.00, z=-7150.54] died, message: 'Librarian was killed'
