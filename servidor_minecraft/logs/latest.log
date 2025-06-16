@@ -907,3 +907,9 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:36:00] [Server thread/INFO]: Villager class_1646['Librarian'/22526, l='ServerLevel[world]', x=1385.24, y=-65.00, z=-7150.54] died, message: 'Librarian was killed'
 [21:53:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16562ms or 331 ticks behind
 [21:54:39] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[22:20:02] [Server thread/INFO]: badbalta was killed
+[22:20:02] [Server thread/INFO]: [badbalta: Killed badbalta]
+[22:21:00] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[22:21:03] [Server thread/INFO]: badbalta lost connection: Disconnected
+[22:21:03] [Server thread/INFO]: badbalta left the game
+[22:29:59] [Server thread/INFO]: [Not Secure] [Server] hola
