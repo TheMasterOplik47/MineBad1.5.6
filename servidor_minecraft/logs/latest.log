@@ -877,3 +877,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:57:43] [Server thread/INFO]: [badbalta: Set the weather to clear]
 [20:58:56] [Server thread/INFO]: [badbalta: Teleported badbalta to 718.500000, 96.500000, -8284.500000]
 [20:59:46] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[21:15:34] [Worker-Main-4/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
