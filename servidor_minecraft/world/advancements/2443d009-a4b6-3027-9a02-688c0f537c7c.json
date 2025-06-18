@@ -9699,6 +9699,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-06-16 20:50:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-16 21:14:25 +0000"
@@ -9714,12 +9720,6 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-16 21:14:25 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-06-16 20:50:59 +0000"
     },
     "done": true
   },
