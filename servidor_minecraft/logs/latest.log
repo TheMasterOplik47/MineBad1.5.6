@@ -883,3 +883,22 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:52:28] [Server thread/INFO]: Loading config from file...
 [21:52:28] [Server thread/INFO]: SimonPro74 joined the game
 [22:06:03] [Server thread/INFO]: SimonPro74 has completed the challenge [It Spreads]
+[22:25:02] [Worker-Main-5/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[22:25:51] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:25:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-118, y=-12, z=15}
+[22:26:17] [Server thread/INFO]: [Not Secure] [Server] ta shoviendo?
+[22:30:28] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:30:28] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:30:28] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:30:28] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:30:28] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:30:28] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:30:28] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:30:28] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:30:28] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:30:28] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:30:28] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:30:28] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:30:28] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:34:35] [Server thread/INFO]: Villager class_1646['Unemployed'/25315, l='ServerLevel[world]', x=181.56, y=96.00, z=-7287.96] died, message: 'Unemployed hit the ground too hard'
+[22:37:40] [Server thread/INFO]: SimonPro74 drowned
