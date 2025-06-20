@@ -1026,3 +1026,10 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:34:17] [Server thread/WARN]: SimonPro74 moved too quickly! 0.0,-10.811596629254797,0.0
 [21:34:20] [Server thread/WARN]: SimonPro74 moved too quickly! 0.0,-10.61202295686213,0.0
 [21:34:21] [Server thread/INFO]: SimonPro74 fell from a high place
+[21:43:59] [Server thread/WARN]: SimonPro74 moved too quickly! 3.0205535620800674,-0.2712241076924755,9.665790947129608
+[21:44:55] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[21:44:55] [Server thread/INFO]: SimonPro74 left the game
+[21:45:39] [Server thread/INFO]: [Not Secure] [Server] hola
+[21:46:04] [Server thread/INFO]: SimonPro74[/100.90.218.55:49403] logged in with entity id 63463 at (858.045234188455, -22.0, -8176.46844257595)
+[21:46:04] [Server thread/INFO]: Loading config from file...
+[21:46:04] [Server thread/INFO]: SimonPro74 joined the game

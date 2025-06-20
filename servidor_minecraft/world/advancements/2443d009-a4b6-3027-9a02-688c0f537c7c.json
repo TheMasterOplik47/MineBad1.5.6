@@ -10115,13 +10115,31 @@
     },
     "done": true
   },
-  "mcwlights:recipes/redstone_slab": {
+  "incendium:infernal_dunes/dune_blaze": {
     "criteria": {
-      "has_wood": "2025-06-20 21:29:50 +0000"
+      "requirement": "2025-06-20 19:57:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-20 19:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-20 19:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-20 19:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_red_sandstone": "2025-06-20 19:58:49 +0000"
     },
@@ -10145,27 +10163,9 @@
     },
     "done": true
   },
-  "incendium:infernal_dunes/dune_blaze": {
+  "mcwlights:recipes/redstone_slab": {
     "criteria": {
-      "requirement": "2025-06-20 19:57:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2025-06-20 19:58:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2025-06-20 19:58:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2025-06-20 19:58:49 +0000"
+      "has_wood": "2025-06-20 21:29:50 +0000"
     },
     "done": true
   },
