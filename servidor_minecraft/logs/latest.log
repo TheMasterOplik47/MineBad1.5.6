@@ -1002,3 +1002,12 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:59:33] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [20:06:43] [Server thread/INFO]: badbalta tried to swim in lava
 [20:07:29] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute
+[20:42:09] [Server thread/INFO]: badbalta was slain by Piglin Brute
+[20:43:13] [Server thread/WARN]: badbalta moved too quickly! 7.105345242296721,-1.9642517098257741,7.248516990241114
+[20:43:27] [Server thread/INFO]: badbalta lost connection: Disconnected
+[20:43:27] [Server thread/INFO]: badbalta left the game
+[20:43:32] [Server thread/INFO]: badbalta[/100.117.196.25:54077] logged in with entity id 43389 at (758.0580098592185, 116.11522562097889, -8645.307034399722)
+[20:43:32] [Server thread/INFO]: Loading config from file...
+[20:43:32] [Server thread/INFO]: badbalta joined the game
+[20:44:08] [Server thread/WARN]: badbalta moved too quickly! 0.07140680855930981,-1.694437627036038,-10.110169846286908
+[20:44:19] [Server thread/WARN]: badbalta moved too quickly! 0.38456872774497697,0.7477966597462711,-10.013921018580959
