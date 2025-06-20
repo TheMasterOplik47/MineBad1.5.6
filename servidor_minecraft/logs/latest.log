@@ -1040,3 +1040,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [22:05:51] [Server thread/INFO]: SimonPro74[/100.90.218.55:49474] logged in with entity id 69414 at (695.2247400017004, 95.44999992847443, -8271.178013059875)
 [22:05:51] [Server thread/INFO]: Loading config from file...
 [22:05:51] [Server thread/INFO]: SimonPro74 joined the game
+[22:17:27] [Server thread/INFO]: SimonPro74 drowned
+[22:17:55] [Server thread/INFO]: [Not Secure] <SimonPro74> 1
+[22:20:27] [Server thread/INFO]: [Not Secure] [Server] hola

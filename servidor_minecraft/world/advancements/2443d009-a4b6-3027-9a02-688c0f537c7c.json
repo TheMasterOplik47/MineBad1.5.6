@@ -45,6 +45,7 @@
       "minecraft:snowy_plains": "2025-06-04 17:10:17 +0000",
       "minecraft:dripstone_caves": "2025-06-03 22:02:59 +0000",
       "minecraft:snowy_taiga": "2025-06-04 17:22:59 +0000",
+      "minecraft:frozen_peaks": "2025-06-20 22:13:47 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 18:10:43 +0000",
       "minecraft:deep_dark": "2025-06-03 22:25:20 +0000",
       "minecraft:grove": "2025-06-19 22:03:01 +0000",
@@ -10166,6 +10167,66 @@
   "mcwlights:recipes/redstone_slab": {
     "criteria": {
       "has_wood": "2025-06-20 21:29:50 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-06-20 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-20 22:13:20 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-06-20 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-06-20 22:12:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-20 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-20 22:12:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-20 22:13:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-20 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-20 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-20 22:13:20 +0000"
     },
     "done": true
   },
