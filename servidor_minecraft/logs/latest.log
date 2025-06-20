@@ -1011,3 +1011,7 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:43:32] [Server thread/INFO]: badbalta joined the game
 [20:44:08] [Server thread/WARN]: badbalta moved too quickly! 0.07140680855930981,-1.694437627036038,-10.110169846286908
 [20:44:19] [Server thread/WARN]: badbalta moved too quickly! 0.38456872774497697,0.7477966597462711,-10.013921018580959
+[20:57:25] [Server thread/INFO]: badbalta was shot by Piglin
+[20:58:16] [Server thread/INFO]: badbalta lost connection: Disconnected
+[20:58:16] [Server thread/INFO]: badbalta left the game
+[20:58:34] [Server thread/INFO]: [Not Secure] [Server] hola
