@@ -10115,6 +10115,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/redstone_slab": {
+    "criteria": {
+      "has_wood": "2025-06-20 21:29:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_smooth_red_sandstone": "2025-06-20 19:58:49 +0000"

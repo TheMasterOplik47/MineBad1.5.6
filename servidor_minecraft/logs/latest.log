@@ -1021,3 +1021,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:25:14] [Server thread/INFO]: SAY HOLA<--[HERE]
 [21:25:17] [Server thread/INFO]: [Not Secure] [Server] hola
 [21:27:49] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[21:34:02] [Server thread/WARN]: SimonPro74 moved too quickly! 9.505376270976171,-2.0577875055317634,2.8781213714264595
+[21:34:15] [Server thread/WARN]: SimonPro74 moved too quickly! 0.0,-10.408991223757702,0.041807739731666516
+[21:34:17] [Server thread/WARN]: SimonPro74 moved too quickly! 0.0,-10.811596629254797,0.0
+[21:34:20] [Server thread/WARN]: SimonPro74 moved too quickly! 0.0,-10.61202295686213,0.0
+[21:34:21] [Server thread/INFO]: SimonPro74 fell from a high place
