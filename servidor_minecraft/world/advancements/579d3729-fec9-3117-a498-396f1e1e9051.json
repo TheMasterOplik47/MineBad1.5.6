@@ -10271,5 +10271,11 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-06-20 19:37:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

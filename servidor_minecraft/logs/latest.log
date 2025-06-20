@@ -934,3 +934,66 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:27:04] [Server thread/INFO]: SimonPro74 burned to death
 [19:27:06] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
 [19:28:04] [Server thread/INFO]: SimonPro74 has made the advancement [Darude - Firestorm]
+[19:29:09] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:29:19] [Server thread/INFO]: Villager class_1646['Cartographer'/15372, l='ServerLevel[world]', x=-192.53, y=-65.00, z=-1806.00] died, message: 'Cartographer was killed'
+[19:31:20] [Server thread/WARN]: SimonPro74 moved too quickly! 3.4025802410473602,-10.572894103966533,0.008236695816776773
+[19:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4919ms or 98 ticks behind
+[19:31:37] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[19:31:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
+[19:32:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:32:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:32:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:32:20] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:32:20] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:32:20] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:32:59] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:33:06] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:33:06] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:33:06] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:33:06] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:33:06] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:33:06] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:33:20] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:33:45] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:33:45] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:33:47] [Server thread/WARN]: badbalta moved too quickly! 0.21830774925814467,-10.867409983895087,0.20416116474166301
+[19:33:50] [Server thread/INFO]: badbalta fell from a high place
+[19:34:10] [Server thread/INFO]: badbalta lost connection: Disconnected
+[19:34:10] [Server thread/INFO]: badbalta left the game
+[19:34:19] [Server thread/INFO]: badbalta[/100.117.196.25:53859] logged in with entity id 17971 at (483.5953055343884, 65.9375, -8743.807828126228)
+[19:34:19] [Server thread/INFO]: Loading config from file...
+[19:34:19] [Server thread/INFO]: badbalta joined the game
+[19:34:31] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:34:57] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 140.500000, -8710.500000]
+[19:35:59] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[19:37:46] [Server thread/INFO]: badbalta has made the advancement [Light-Sensitive]
+[19:37:46] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/19044, l='ServerLevel[world]', x=-300.23, y=81.07, z=-1638.53] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[19:38:59] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[19:40:10] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute
+[19:40:46] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:41:32] [Server thread/INFO]: [Not Secure] [Server] hola
+[19:45:45] [Server thread/INFO]: badbalta was slain by Piglin Brute
+[19:46:20] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8693.500000]
+[19:50:06] [Server thread/INFO]: badbalta lost connection: Timed out
+[19:50:06] [Server thread/INFO]: badbalta left the game
+[19:50:37] [Server thread/WARN]: SimonPro74 moved too quickly! 0.0,-11.213403912871321,0.3994689120352177
+[19:50:51] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute
+[19:51:04] [Server thread/INFO]: badbalta[/100.117.196.25:53889] logged in with entity id 22995 at (76.58636875143519, 93.1212968405392, -1063.9403703889554)
+[19:51:04] [Server thread/INFO]: Loading config from file...
+[19:51:04] [Server thread/INFO]: badbalta joined the game
+[19:51:25] [Server thread/WARN]: badbalta moved too quickly! -2.1094241980516273,0.6319031399820005,-9.86346545946435
+[19:51:33] [Server thread/WARN]: badbalta moved too quickly! -1.9173351507593992,-1.504799122994072,-9.97924587318471
+[19:51:52] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[19:51:52] [Server thread/INFO]: SimonPro74 left the game
+[19:51:58] [Server thread/INFO]: SimonPro74[/100.90.218.55:65133] logged in with entity id 23708 at (741.7401596223692, 100.0, -8293.42960010956)
+[19:51:58] [Server thread/INFO]: Loading config from file...
+[19:51:58] [Server thread/INFO]: SimonPro74 joined the game
+[19:53:09] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:53:49] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/24334, l='ServerLevel[world]', x=31.77, y=77.20, z=-1636.85] died: Desert Blaze was shot by SimonPro74
+[19:54:46] [Server thread/WARN]: badbalta moved too quickly! -10.02523276998184,0.7531999805212024,0.09621740395277811
+[19:57:05] [Server thread/INFO]: SimonPro74 has made the advancement [Light-Sensitive]
+[19:57:05] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/25353, l='ServerLevel[world]', x=-468.30, y=81.00, z=-1629.30] died: Desert Blaze was shot by SimonPro74
+[19:57:45] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/25474, l='ServerLevel[world]', x=-445.82, y=81.00, z=-1638.35] died: Desert Blaze was slain by SimonPro74
+[19:57:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:58:18] [Server thread/INFO]: Villager class_1646['Cartographer'/25802, l='ServerLevel[world]', x=-705.00, y=-65.00, z=-1712.53] died, message: 'Cartographer was killed'
+[19:58:34] [Server thread/WARN]: badbalta moved too quickly! -10.035407899142342,0.0,0.2094500179878196
