@@ -1043,3 +1043,25 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [22:17:27] [Server thread/INFO]: SimonPro74 drowned
 [22:17:55] [Server thread/INFO]: [Not Secure] <SimonPro74> 1
 [22:20:27] [Server thread/INFO]: [Not Secure] [Server] hola
+[22:25:53] [Server thread/INFO]: SimonPro74 drowned
+[22:26:39] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[22:26:39] [Server thread/INFO]: SimonPro74 left the game
+[22:26:45] [Server thread/INFO]: [Not Secure] [Server] hola
+[22:26:48] [Server thread/INFO]: Stopping the server
+[22:26:48] [Server thread/INFO]: Stopping server
+[22:26:48] [Server thread/INFO]: Saving players
+[22:26:48] [Server thread/INFO]: Saving worlds
+[22:26:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:26:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[22:26:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:26:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[22:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:26:48] [Server thread/INFO]: Unloading server config for barteringstation
+[22:26:48] [Server thread/INFO]: Unloading server config for easyanvils
+[22:26:48] [Server thread/INFO]: Unloading server config for easymagic
+[22:26:48] [Server thread/INFO]: Unloading server config for hangglider
+[22:26:48] [Server thread/INFO]: Unloading server config for iteminteractions
