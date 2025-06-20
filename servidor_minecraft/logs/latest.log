@@ -997,3 +997,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:57:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [19:58:18] [Server thread/INFO]: Villager class_1646['Cartographer'/25802, l='ServerLevel[world]', x=-705.00, y=-65.00, z=-1712.53] died, message: 'Cartographer was killed'
 [19:58:34] [Server thread/WARN]: badbalta moved too quickly! -10.035407899142342,0.0,0.2094500179878196
+[19:59:33] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:59:33] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:59:33] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:06:43] [Server thread/INFO]: badbalta tried to swim in lava
+[20:07:29] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute

@@ -10277,5 +10277,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-20 19:57:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
