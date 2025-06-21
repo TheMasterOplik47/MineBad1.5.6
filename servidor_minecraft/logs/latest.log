@@ -886,3 +886,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:49:14] [Server thread/INFO]: badbalta[/100.117.196.25:51110] logged in with entity id 15534 at (679.9219940383291, 130.0, -8678.43004779559)
 [20:49:14] [Server thread/INFO]: Loading config from file...
 [20:49:14] [Server thread/INFO]: badbalta joined the game
+[20:59:33] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[20:59:33] [Server thread/INFO]: SimonPro74 left the game
+[21:00:00] [Server thread/INFO]: SimonPro74[/100.90.218.55:50192] logged in with entity id 21278 at (741.8249760453341, 95.0625, -8287.72631381181)
+[21:00:00] [Server thread/INFO]: Loading config from file...
+[21:00:00] [Server thread/INFO]: SimonPro74 joined the game
