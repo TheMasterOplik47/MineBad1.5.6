@@ -10327,5 +10327,11 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-21 22:23:36 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3700
 }

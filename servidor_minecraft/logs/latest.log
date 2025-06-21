@@ -920,3 +920,15 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:43:38] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
 [21:44:21] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
 [21:47:15] [Server thread/INFO]: SimonPro74 was slain by Vindicator
+[22:11:06] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[22:11:06] [Server thread/INFO]: SimonPro74 left the game
+[22:12:41] [Server thread/INFO]: SimonPro74[/100.90.218.55:50473] logged in with entity id 51404 at (708.3957824617949, 90.0, -8302.821070531792)
+[22:12:41] [Server thread/INFO]: Loading config from file...
+[22:12:41] [Server thread/INFO]: SimonPro74 joined the game
+[22:12:53] [Server thread/INFO]: [Not Secure] [Server] hola
+[22:16:26] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[22:16:26] [Server thread/INFO]: SimonPro74 left the game
+[22:17:09] [Server thread/INFO]: [Not Secure] [Server] hola
+[22:17:29] [Server thread/INFO]: SimonPro74[/100.90.218.55:50668] logged in with entity id 53103 at (714.2773673363993, 94.0, -8311.805740795971)
+[22:17:29] [Server thread/INFO]: Loading config from file...
+[22:17:29] [Server thread/INFO]: SimonPro74 joined the game
