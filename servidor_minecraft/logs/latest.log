@@ -891,3 +891,13 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:00:00] [Server thread/INFO]: SimonPro74[/100.90.218.55:50192] logged in with entity id 21278 at (741.8249760453341, 95.0625, -8287.72631381181)
 [21:00:00] [Server thread/INFO]: Loading config from file...
 [21:00:00] [Server thread/INFO]: SimonPro74 joined the game
+[21:14:20] [Server thread/INFO]: SimonPro74 has made the advancement [Voluntary Exile]
+[21:14:32] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[21:14:37] [Server thread/WARN]: SimonPro74 moved too quickly! 1.1713128894739384,1.083077817806469,10.075439959085998
+[21:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5170ms or 103 ticks behind
+[21:14:50] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[21:16:46] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.307861328125
+[21:16:46] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.3050133938777435
+[21:16:46] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.302165459630487
+[21:16:46] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.29804416363913333
+[21:20:52] [Server thread/INFO]: SimonPro74 was slain by Vindicator
