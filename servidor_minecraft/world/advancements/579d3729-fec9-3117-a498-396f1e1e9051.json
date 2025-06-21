@@ -627,6 +627,7 @@
       "minecraft:stray": "2025-06-04 17:12:56 +0000",
       "minecraft:enderman": "2025-06-11 06:57:02 +0000",
       "minecraft:silverfish": "2025-06-15 05:59:20 +0000",
+      "minecraft:vex": "2025-06-21 21:20:11 +0000",
       "minecraft:zombie": "2025-06-03 20:44:53 +0000",
       "minecraft:drowned": "2025-06-05 19:03:24 +0000",
       "minecraft:zombie_villager": "2025-06-04 18:11:08 +0000"
@@ -10311,6 +10312,18 @@
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-20 20:40:28 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-06-21 21:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-21 21:27:25 +0000"
     },
     "done": true
   },
