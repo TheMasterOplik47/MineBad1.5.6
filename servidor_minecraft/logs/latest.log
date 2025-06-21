@@ -872,3 +872,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:17:46] [Server thread/INFO]: badbalta[/100.117.196.25:51064] logged in with entity id 1350 at (679.4050649043822, 134.0, -8710.911856522569)
 [20:17:46] [Server thread/INFO]: Loading config from file...
 [20:17:46] [Server thread/INFO]: badbalta joined the game
+[20:24:32] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[20:25:25] [Server thread/WARN]: SimonPro74 moved too quickly! -0.576286342577319,-12.032610980258184,-0.6206357246956031
+[20:28:01] [Server thread/WARN]: badbalta moved too quickly! -4.759497774643556,0.0,9.020207395673424
