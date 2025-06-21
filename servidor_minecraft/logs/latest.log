@@ -875,3 +875,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:24:32] [Server thread/INFO]: SimonPro74 tried to swim in lava
 [20:25:25] [Server thread/WARN]: SimonPro74 moved too quickly! -0.576286342577319,-12.032610980258184,-0.6206357246956031
 [20:28:01] [Server thread/WARN]: badbalta moved too quickly! -4.759497774643556,0.0,9.020207395673424
+[20:35:51] [Server thread/INFO]: SimonPro74 burned to death
+[20:38:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/10469, l='ServerLevel[world]', x=710.66, y=90.00, z=-8299.47] died, message: 'Toolsmith was slain by Zombie'
+[20:39:00] [Server thread/INFO]: Villager class_1646['Armorer'/10459, l='ServerLevel[world]', x=708.64, y=90.00, z=-8308.21] died, message: 'Armorer was slain by Zombie'
