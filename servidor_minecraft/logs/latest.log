@@ -878,3 +878,11 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:35:51] [Server thread/INFO]: SimonPro74 burned to death
 [20:38:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/10469, l='ServerLevel[world]', x=710.66, y=90.00, z=-8299.47] died, message: 'Toolsmith was slain by Zombie'
 [20:39:00] [Server thread/INFO]: Villager class_1646['Armorer'/10459, l='ServerLevel[world]', x=708.64, y=90.00, z=-8308.21] died, message: 'Armorer was slain by Zombie'
+[20:46:02] [Server thread/INFO]: badbalta was killed
+[20:46:02] [Server thread/INFO]: [badbalta: Killed badbalta]
+[20:49:04] [Server thread/WARN]: badbalta moved too quickly! -6.460660356709468,-2.1661092609382138,7.377576056213002
+[20:49:05] [Server thread/INFO]: badbalta lost connection: Timed out
+[20:49:05] [Server thread/INFO]: badbalta left the game
+[20:49:14] [Server thread/INFO]: badbalta[/100.117.196.25:51110] logged in with entity id 15534 at (679.9219940383291, 130.0, -8678.43004779559)
+[20:49:14] [Server thread/INFO]: Loading config from file...
+[20:49:14] [Server thread/INFO]: badbalta joined the game
