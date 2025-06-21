@@ -1,7 +1,7 @@
-[20:12:32] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.14
-[20:12:34] [ForkJoinPool-1-worker-4/WARN]: Mod travelersbackpack uses the version fabric-1.20.4-9.4.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[20:12:36] [ForkJoinPool-1-worker-3/WARN]: Mod totw_modded uses the version fabric-1.20.1-1.0.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[20:12:37] [main/INFO]: Loading 167 mods:
+[23:18:47] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.14
+[23:18:47] [ForkJoinPool-1-worker-3/WARN]: Mod travelersbackpack uses the version fabric-1.20.4-9.4.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:18:48] [ForkJoinPool-1-worker-2/WARN]: Mod totw_modded uses the version fabric-1.20.1-1.0.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:18:48] [main/INFO]: Loading 167 mods:
 	- additionalstructures 4.2.2
 	- architectury 11.1.17
 	- artifacts 10.0.11
@@ -194,131 +194,133 @@
 	   \-- org_reflections_reflections 0.10.2
 	- yungsextras 1.20.4-Fabric-4.4.2
 	   \-- org_reflections_reflections 0.10.2
-[20:12:37] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MineBad1.5.6/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:12:37] [main/INFO]: Compatibility level set to JAVA_16
-[20:12:37] [main/INFO]: Compatibility level set to JAVA_17
-[20:12:38] [main/WARN]: Reference map 'barteringstation.fabric.refmap.json' for barteringstation.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'connectedglass.mixins.refmap.json' for connectedglass.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'EasyMagic-Fabric-refmap.json' for easymagic.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'fetzisasiandeco-common-common-refmap.json' for fetzisasiandeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'formationsnether.mixins.refmap.json' for formationsnether.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'hangglider.fabric.refmap.json' for hangglider.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'iteminteractions.fabric.refmap.json' for iteminteractions.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'metalbundles.common.refmap.json' for metalbundles.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'metalbundles.fabric.refmap.json' for metalbundles.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'Stoneworks-Common-refmap.json' for stoneworks.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'Stoneworks-Fabric-refmap.json' for stoneworks.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'thaumon-common-refmap.json' for thaumon-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:38] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:12:39] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
-[20:12:39] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found fantasy_armor.mixins.json:FARenderMixin from mod fantasy_armor
-[20:12:39] [main/WARN]: Error loading class: net/minecraft/class_8673 (java.lang.ClassNotFoundException: net/minecraft/class_8673)
-[20:12:39] [main/WARN]: @Mixin target net.minecraft.class_8673 was not found owo.mixins.json:ClientCommonNetworkHandlerAccessor from mod owo
-[20:12:39] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[20:12:39] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:12:53] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[20:12:53] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[20:12:53] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[20:12:53] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[20:12:53] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[20:12:53] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[20:12:53] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[20:12:54] [main/ERROR]: No data fixer registered for artifacts:mimic
-[20:12:54] [main/INFO]: Initializing AtistructuresvMod
-[20:12:54] [main/INFO]: Constructing common components for barteringstation:main
-[20:12:54] [main/INFO]: Reflections took 75 ms to scan 1 urls, producing 1 keys and 2 values
-[20:12:54] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[20:12:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[20:12:54] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[20:12:54] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
-[20:12:54] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[20:12:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[20:12:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[20:12:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[20:12:54] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[20:12:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[20:12:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[20:12:56] [main/INFO]: Loading Collective version 7.64.
-[20:12:57] [main/ERROR]: No data fixer registered for crystallized_amber
-[20:12:57] [main/ERROR]: No data fixer registered for sculk_jaw
-[20:12:58] [main/INFO]: Hello Fabric world!
-[20:12:58] [main/INFO]: Constructing common components for easyanvils:main
-[20:12:58] [main/INFO]: Loading common config for easyanvils
-[20:12:58] [Thread-2/INFO]: Reloading common config for easyanvils
-[20:12:58] [Thread-2/INFO]: Reloading common config for easyanvils
-[20:12:58] [main/INFO]: Constructing common components for easymagic:main
-[20:12:58] [main/ERROR]: No data fixer registered for badlands_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for cave_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for crimson_forest_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for dark_oak_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for desert_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for end_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for end_islands_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for flower_fields_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for ice_spikes_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for mushroom_fields_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for nether_wastes_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for coral_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for savanna_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for snowy_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for soulsand_valley_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for swamp_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for warped_forest_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for windswept_hills_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for pet_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for hammerhead_pet_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for axolotl_pet_enderman
-[20:12:58] [main/ERROR]: No data fixer registered for scarab
-[20:12:58] [main/ERROR]: No data fixer registered for spirit
-[20:12:58] [main/ERROR]: No data fixer registered for ender_bullet
-[20:12:58] [main/ERROR]: No data fixer registered for corrupted_pearl
-[20:12:58] [main/ERROR]: No data fixer registered for soul_pearl
-[20:12:58] [main/ERROR]: No data fixer registered for ancient_pearl
-[20:12:58] [main/ERROR]: No data fixer registered for bubble_pearl
-[20:12:58] [main/ERROR]: No data fixer registered for summoner_pearl
-[20:12:58] [main/ERROR]: No data fixer registered for icy_pearl
-[20:12:58] [main/ERROR]: No data fixer registered for crimson_pearl
-[20:12:58] [main/ERROR]: No data fixer registered for warped_pearl
-[20:12:59] [main/INFO]: ExpandAbility here, who dis?
-[20:12:59] [main/ERROR]: No data fixer registered for seat
-[20:12:59] [main/ERROR]: No data fixer registered for fixed_seat
-[20:12:59] [main/ERROR]: No data fixer registered for fetzisasiandeco:koi
-[20:13:04] [main/INFO]: Constructing common components for hangglider:main
-[20:13:04] [main/INFO]: Constructing common components for iteminteractions:main
-[20:13:06] [main/INFO]: Constructing common components for metalbundles:main
-[20:13:06] [main/INFO]: idwtialsimmoedm - I didn't want to install a library so I made my own enchantment descriptions mod
-[20:13:06] [main/INFO]: Constructing common components for puzzleslib:main
-[20:13:06] [main/INFO]: Loaded config sawmill-common.json
-[20:13:07] [main/INFO]: Reading config values from file.
-[20:13:07] [main/INFO]: Constructing common components for stoneworks:main
-[20:13:07] [main/INFO]: Loading common config for stoneworks
-[20:13:09] [main/INFO]: Hello Fabric world!
-[20:13:09] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[20:13:09] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[20:13:09] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[20:13:09] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[20:13:09] [main/INFO]: CHEESE FOR EVERYONE
-[20:13:09] [main/INFO]: [STDOUT]: Initialize WeaponMaster
-[20:13:09] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
-[20:13:09] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
-[20:13:09] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[20:13:09] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[20:13:09] [main/INFO]: Initialized block sets in 38ms
-[20:13:10] [main/INFO]: Initialized color sets in 170ms
-[20:13:10] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[20:13:10] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[20:13:10] [main/ERROR]: Pack for WWOO LOL is null
-[20:13:10] [main/ERROR]: Pack for WWOO LOL is null
-[20:13:10] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:13:10] [main/ERROR]: Pack for WWOO LOL is null
-[20:13:15] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:u_sea:raft/nature/melon - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:grass
-[20:13:15] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:u_sea:island/nature/wheat - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:grass
-[20:13:16] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:u_sea:raft/nature/wheat - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:grass
-[20:13:16] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:u_sea:island/nature/melon - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:grass
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_cherry_door_sawmill
+[23:18:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MineBad1.5.6/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:18:48] [main/INFO]: Compatibility level set to JAVA_16
+[23:18:48] [main/INFO]: Compatibility level set to JAVA_17
+[23:18:48] [main/WARN]: Reference map 'barteringstation.fabric.refmap.json' for barteringstation.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'connectedglass.mixins.refmap.json' for connectedglass.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'EasyMagic-Fabric-refmap.json' for easymagic.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'fetzisasiandeco-common-common-refmap.json' for fetzisasiandeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'formationsnether.mixins.refmap.json' for formationsnether.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'hangglider.fabric.refmap.json' for hangglider.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'iteminteractions.fabric.refmap.json' for iteminteractions.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'metalbundles.common.refmap.json' for metalbundles.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'metalbundles.fabric.refmap.json' for metalbundles.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'Stoneworks-Common-refmap.json' for stoneworks.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'Stoneworks-Fabric-refmap.json' for stoneworks.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'thaumon-common-refmap.json' for thaumon-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:48] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:18:49] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
+[23:18:49] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found fantasy_armor.mixins.json:FARenderMixin from mod fantasy_armor
+[23:18:49] [main/WARN]: Error loading class: net/minecraft/class_8673 (java.lang.ClassNotFoundException: net/minecraft/class_8673)
+[23:18:49] [main/WARN]: @Mixin target net.minecraft.class_8673 was not found owo.mixins.json:ClientCommonNetworkHandlerAccessor from mod owo
+[23:18:49] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[23:18:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23:18:58] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[23:18:58] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[23:18:58] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[23:18:58] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[23:18:58] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[23:18:58] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[23:18:58] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[23:18:58] [main/ERROR]: No data fixer registered for artifacts:mimic
+[23:18:58] [main/INFO]: Initializing AtistructuresvMod
+[23:18:58] [main/INFO]: Constructing common components for barteringstation:main
+[23:18:58] [main/INFO]: Reflections took 48 ms to scan 1 urls, producing 1 keys and 2 values
+[23:18:58] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[23:18:58] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[23:18:58] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:18:58] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:18:58] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:18:58] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:18:58] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:18:59] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[23:18:59] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[23:18:59] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[23:18:59] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:19:00] [main/INFO]: Loading Collective version 7.64.
+[23:19:00] [main/ERROR]: No data fixer registered for crystallized_amber
+[23:19:00] [main/ERROR]: No data fixer registered for sculk_jaw
+[23:19:01] [main/INFO]: Hello Fabric world!
+[23:19:01] [main/INFO]: Constructing common components for easyanvils:main
+[23:19:01] [main/INFO]: Loading common config for easyanvils
+[23:19:01] [Thread-2/INFO]: Reloading common config for easyanvils
+[23:19:01] [Thread-2/INFO]: Reloading common config for easyanvils
+[23:19:01] [main/INFO]: Constructing common components for easymagic:main
+[23:19:01] [main/ERROR]: No data fixer registered for badlands_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for cave_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for crimson_forest_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for dark_oak_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for desert_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for end_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for end_islands_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for flower_fields_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for ice_spikes_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for mushroom_fields_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for nether_wastes_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for coral_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for savanna_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for snowy_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for soulsand_valley_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for swamp_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for warped_forest_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for windswept_hills_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for pet_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for hammerhead_pet_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for axolotl_pet_enderman
+[23:19:01] [main/ERROR]: No data fixer registered for scarab
+[23:19:01] [main/ERROR]: No data fixer registered for spirit
+[23:19:01] [main/ERROR]: No data fixer registered for ender_bullet
+[23:19:01] [main/ERROR]: No data fixer registered for corrupted_pearl
+[23:19:01] [main/ERROR]: No data fixer registered for soul_pearl
+[23:19:01] [main/ERROR]: No data fixer registered for ancient_pearl
+[23:19:01] [main/ERROR]: No data fixer registered for bubble_pearl
+[23:19:01] [main/ERROR]: No data fixer registered for summoner_pearl
+[23:19:01] [main/ERROR]: No data fixer registered for icy_pearl
+[23:19:01] [main/ERROR]: No data fixer registered for crimson_pearl
+[23:19:01] [main/ERROR]: No data fixer registered for warped_pearl
+[23:19:01] [main/INFO]: ExpandAbility here, who dis?
+[23:19:02] [main/ERROR]: No data fixer registered for seat
+[23:19:02] [main/ERROR]: No data fixer registered for fixed_seat
+[23:19:02] [main/ERROR]: No data fixer registered for fetzisasiandeco:koi
+[23:19:05] [main/INFO]: Constructing common components for hangglider:main
+[23:19:05] [main/INFO]: Constructing common components for iteminteractions:main
+[23:19:06] [main/INFO]: Constructing common components for metalbundles:main
+[23:19:07] [main/INFO]: chyz: bro, can you stop breathing
+[23:19:07] [main/INFO]: Constructing common components for puzzleslib:main
+[23:19:07] [main/INFO]: Loaded config sawmill-common.json
+[23:19:07] [main/INFO]: Reading config values from file.
+[23:19:07] [main/INFO]: Constructing common components for stoneworks:main
+[23:19:07] [main/INFO]: Loading common config for stoneworks
+[23:19:07] [Thread-2/INFO]: Reloading common config for stoneworks
+[23:19:07] [Thread-2/INFO]: Reloading common config for stoneworks
+[23:19:08] [main/INFO]: Hello Fabric world!
+[23:19:08] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[23:19:08] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[23:19:08] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[23:19:08] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[23:19:08] [main/INFO]: CHEESE FOR EVERYONE
+[23:19:09] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[23:19:09] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[23:19:09] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[23:19:09] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:19:09] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:19:09] [main/INFO]: Initialized block sets in 39ms
+[23:19:09] [main/INFO]: Initialized color sets in 111ms
+[23:19:09] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[23:19:09] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[23:19:09] [main/ERROR]: Pack for WWOO LOL is null
+[23:19:09] [main/ERROR]: Pack for WWOO LOL is null
+[23:19:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:19:09] [main/ERROR]: Pack for WWOO LOL is null
+[23:19:13] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:u_sea:raft/nature/melon - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:grass
+[23:19:13] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:u_sea:island/nature/wheat - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:grass
+[23:19:13] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:u_sea:raft/nature/wheat - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:grass
+[23:19:13] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:u_sea:island/nature/melon - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:grass
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_cherry_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -336,7 +338,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_jungle_door
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_jungle_door
 com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item":"chipped:classic_windowed_jungle_door"}]; Item must not be minecraft:air; Not a json array: {"item":"chipped:classic_windowed_jungle_door"}; Input does not contain a key [fabric:type]: MapLike[{"item":"chipped:classic_windowed_jungle_door"}]
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -354,7 +356,7 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_bamboo_door_sawmill
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_bamboo_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -372,7 +374,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_spruce_door_sawmill
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_spruce_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -390,7 +392,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_mangrove_door_sawmill
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_mangrove_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -408,7 +410,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_birch_door_sawmill
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_birch_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -426,7 +428,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_birch_door
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_birch_door
 com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item":"chipped:classic_windowed_birch_door"}]; Item must not be minecraft:air; Not a json array: {"item":"chipped:classic_windowed_birch_door"}; Input does not contain a key [fabric:type]: MapLike[{"item":"chipped:classic_windowed_birch_door"}]
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -444,7 +446,7 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_jungle_door_sawmill
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_jungle_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -462,7 +464,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_acacia_door
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_acacia_door
 com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item":"chipped:classic_windowed_acacia_door"}]; Item must not be minecraft:air; Not a json array: {"item":"chipped:classic_windowed_acacia_door"}; Input does not contain a key [fabric:type]: MapLike[{"item":"chipped:classic_windowed_acacia_door"}]
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -480,7 +482,7 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_crimson_door
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_crimson_door
 com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item":"chipped:classic_windowed_crimson_door"}]; Item must not be minecraft:air; Not a json array: {"item":"chipped:classic_windowed_crimson_door"}; Input does not contain a key [fabric:type]: MapLike[{"item":"chipped:classic_windowed_crimson_door"}]
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -498,7 +500,7 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_sliding_warped_door
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_sliding_warped_door
 com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item":"chipped:sliding_warped_door"}]; Item must not be minecraft:air; Not a json array: {"item":"chipped:sliding_warped_door"}; Input does not contain a key [fabric:type]: MapLike[{"item":"chipped:sliding_warped_door"}]
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -516,7 +518,7 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_acacia_door_sawmill
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_acacia_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -534,7 +536,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_screen_mangrove_door
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_screen_mangrove_door
 com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item":"chipped:screen_mangrove_door"}]; Item must not be minecraft:air; Not a json array: {"item":"chipped:screen_mangrove_door"}; Input does not contain a key [fabric:type]: MapLike[{"item":"chipped:screen_mangrove_door"}]
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -552,7 +554,7 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_warped_door_sawmill
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_warped_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -570,7 +572,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_shack_mangrove_door
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_shack_mangrove_door
 com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item":"chipped:shack_mangrove_door"}]; Item must not be minecraft:air; Not a json array: {"item":"chipped:shack_mangrove_door"}; Input does not contain a key [fabric:type]: MapLike[{"item":"chipped:shack_mangrove_door"}]
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -588,7 +590,7 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_oak_door_sawmill
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_oak_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -606,7 +608,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_crimson_door_sawmill
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_crimson_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -624,7 +626,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:16] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_tiled_mangrove_door
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_tiled_mangrove_door
 com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item":"chipped:tiled_mangrove_door"}]; Item must not be minecraft:air; Not a json array: {"item":"chipped:tiled_mangrove_door"}; Input does not contain a key [fabric:type]: MapLike[{"item":"chipped:tiled_mangrove_door"}]
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -642,7 +644,7 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:17] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_dark_oak_door_sawmill
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:short_dark_oak_door_sawmill
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: woodworks:sawmill
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -660,7 +662,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:17] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_spruce_door
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_spruce_door
 com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item":"chipped:classic_windowed_spruce_door"}]; Item must not be minecraft:air; Not a json array: {"item":"chipped:classic_windowed_spruce_door"}; Input does not contain a key [fabric:type]: MapLike[{"item":"chipped:classic_windowed_spruce_door"}]
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -678,7 +680,7 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:17] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_warped_door
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_warped_door
 com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item":"chipped:classic_windowed_warped_door"}]; Item must not be minecraft:air; Not a json array: {"item":"chipped:classic_windowed_warped_door"}; Input does not contain a key [fabric:type]: MapLike[{"item":"chipped:classic_windowed_warped_door"}]
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -696,7 +698,7 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:17] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_mangrove_door
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_mangrove_door
 com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item":"chipped:classic_windowed_mangrove_door"}]; Item must not be minecraft:air; Not a json array: {"item":"chipped:classic_windowed_mangrove_door"}; Input does not contain a key [fabric:type]: MapLike[{"item":"chipped:classic_windowed_mangrove_door"}]
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -714,7 +716,7 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:17] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_dark_oak_door
+[23:19:14] [main/ERROR]: Parsing error loading recipe dramaticdoors:tall_chipped_modern_dark_oak_door
 com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item":"chipped:classic_windowed_dark_oak_door"}]; Item must not be minecraft:air; Not a json array: {"item":"chipped:classic_windowed_dark_oak_door"}; Input does not contain a key [fabric:type]: MapLike[{"item":"chipped:classic_windowed_dark_oak_door"}]
 	at net.minecraft.class_156.method_47526(class_156.java:1005) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1863.method_17720(class_1863.java:131) ~[server-intermediary.jar:?]
@@ -732,66 +734,61 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:13:17] [main/INFO]: Generating Sawmill Recipes
-[20:13:17] [main/INFO]: Generated Sawmill recipes in 234 milliseconds
-[20:13:17] [main/INFO]: Loaded 10 recipes
-[20:13:17] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_warped_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_warped_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_warped_door"]}]}}}
-[20:13:17] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_sliding_warped_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:sliding_warped_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:sliding_warped_door"]}]}}}
-[20:13:17] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_screen_mangrove_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:screen_mangrove_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:screen_mangrove_door"]}]}}}
-[20:13:17] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_tiled_mangrove_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:tiled_mangrove_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:tiled_mangrove_door"]}]}}}
-[20:13:17] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_spruce_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_spruce_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_spruce_door"]}]}}}
-[20:13:17] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_dark_oak_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_dark_oak_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_dark_oak_door"]}]}}}
-[20:13:17] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_jungle_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_jungle_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_jungle_door"]}]}}}
-[20:13:17] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_mangrove_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_mangrove_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_mangrove_door"]}]}}}
-[20:13:17] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_acacia_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_acacia_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_acacia_door"]}]}}}
-[20:13:17] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_birch_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_birch_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_birch_door"]}]}}}
-[20:13:17] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_shack_mangrove_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:shack_mangrove_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:shack_mangrove_door"]}]}}}
-[20:13:17] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_crimson_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_crimson_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_crimson_door"]}]}}}
-[20:13:17] [main/ERROR]: Couldn't load advancements: [hopo:minecraft/adventure/locate_portal_ruined]
-[20:13:17] [main/INFO]: Loaded 4255 advancements
-[20:13:17] [main/INFO]: Applied 12 data villager trades
-[20:13:25] [main/INFO]: Applied 663 biome modifications to 79 of 79 new biomes in 33.69 ms
-[20:13:25] [Server thread/INFO]: Loading server config for barteringstation
-[20:13:25] [Thread-2/INFO]: Reloading server config for barteringstation
-[20:13:25] [Thread-2/INFO]: Reloading server config for barteringstation
-[20:13:25] [Server thread/INFO]: Loading server config for easyanvils
-[20:13:25] [Thread-2/INFO]: Reloading server config for easyanvils
-[20:13:25] [Server thread/INFO]: Loading server config for easymagic
-[20:13:25] [Thread-2/INFO]: Reloading server config for easyanvils
-[20:13:25] [Thread-2/INFO]: Reloading server config for easymagic
-[20:13:25] [Server thread/INFO]: Loading server config for hangglider
-[20:13:25] [Server thread/INFO]: Loading server config for iteminteractions
-[20:13:25] [Thread-2/INFO]: Reloading server config for hangglider
-[20:13:25] [Thread-2/INFO]: Reloading server config for iteminteractions
-[20:13:25] [Server thread/INFO]: Injecting Carpenter Village Houses
-[20:13:25] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[20:13:25] [Server thread/INFO]: Loading properties
-[20:13:25] [Server thread/INFO]: Default game type: SURVIVAL
-[20:13:25] [Server thread/INFO]: Generating keypair
-[20:13:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:13:25] [Server thread/INFO]: Using epoll channel type
-[20:13:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:13:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:13:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:13:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:13:26] [Server thread/INFO]: Preparing level "world"
-[20:13:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:13:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:13:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:13:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:13:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:13:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:13:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:13:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:13:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:13:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:13:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:13:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:13:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:13:36] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[20:13:37] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[20:13:37] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[20:13:37] [Server thread/ERROR]: Couldn't load structure mss:diorite_house
+[23:19:14] [main/INFO]: Generating Sawmill Recipes
+[23:19:15] [main/INFO]: Generated Sawmill recipes in 183 milliseconds
+[23:19:15] [main/INFO]: Loaded 10 recipes
+[23:19:15] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_warped_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_warped_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_warped_door"]}]}}}
+[23:19:15] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_sliding_warped_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:sliding_warped_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:sliding_warped_door"]}]}}}
+[23:19:15] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_screen_mangrove_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:screen_mangrove_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:screen_mangrove_door"]}]}}}
+[23:19:15] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_tiled_mangrove_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:tiled_mangrove_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:tiled_mangrove_door"]}]}}}
+[23:19:15] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_spruce_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_spruce_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_spruce_door"]}]}}}
+[23:19:15] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_dark_oak_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_dark_oak_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_dark_oak_door"]}]}}}
+[23:19:15] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_jungle_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_jungle_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_jungle_door"]}]}}}
+[23:19:15] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_mangrove_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_mangrove_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_mangrove_door"]}]}}}
+[23:19:15] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_acacia_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_acacia_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_acacia_door"]}]}}}
+[23:19:15] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_birch_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_birch_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_birch_door"]}]}}}
+[23:19:15] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_shack_mangrove_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:shack_mangrove_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:shack_mangrove_door"]}]}}}
+[23:19:15] [main/ERROR]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_chipped_modern_crimson_door: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: chipped:classic_windowed_crimson_door missed input: {"has_items":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["chipped:classic_windowed_crimson_door"]}]}}}
+[23:19:15] [main/ERROR]: Couldn't load advancements: [hopo:minecraft/adventure/locate_portal_ruined]
+[23:19:15] [main/INFO]: Loaded 4255 advancements
+[23:19:15] [main/INFO]: Applied 12 data villager trades
+[23:19:22] [main/INFO]: Applied 663 biome modifications to 79 of 79 new biomes in 33.97 ms
+[23:19:22] [Server thread/INFO]: Loading server config for barteringstation
+[23:19:22] [Thread-2/INFO]: Reloading server config for barteringstation
+[23:19:22] [Thread-2/INFO]: Reloading server config for barteringstation
+[23:19:22] [Server thread/INFO]: Loading server config for easyanvils
+[23:19:22] [Thread-2/INFO]: Reloading server config for easyanvils
+[23:19:22] [Thread-2/INFO]: Reloading server config for easyanvils
+[23:19:22] [Server thread/INFO]: Loading server config for easymagic
+[23:19:22] [Thread-2/INFO]: Reloading server config for easymagic
+[23:19:22] [Thread-2/INFO]: Reloading server config for easymagic
+[23:19:22] [Server thread/INFO]: Loading server config for hangglider
+[23:19:22] [Thread-2/INFO]: Reloading server config for hangglider
+[23:19:22] [Server thread/INFO]: Loading server config for iteminteractions
+[23:19:22] [Thread-2/INFO]: Reloading server config for hangglider
+[23:19:22] [Server thread/INFO]: Injecting Carpenter Village Houses
+[23:19:22] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[23:19:22] [Server thread/INFO]: Loading properties
+[23:19:22] [Server thread/INFO]: Default game type: SURVIVAL
+[23:19:22] [Server thread/INFO]: Generating keypair
+[23:19:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:19:22] [Server thread/INFO]: Using epoll channel type
+[23:19:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:19:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:19:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:19:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:19:22] [Server thread/INFO]: Preparing level "world"
+[23:19:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:19:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:19:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:19:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:19:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:19:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:19:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:19:31] [Server thread/ERROR]: Couldn't load structure mss:diorite_house
 net.minecraft.class_8911: Loading NBT data
 	at net.minecraft.class_2487.method_10581(class_2487.java:526) ~[server-intermediary.jar:?]
 	at net.minecraft.class_2487$1.method_53889(class_2487.java:76) ~[server-intermediary.jar:?]
@@ -847,330 +844,36 @@ Caused by: java.io.IOException: Invalid tag id: 26
 	at net.minecraft.class_4614$1.method_23262(class_4614.java:56) ~[server-intermediary.jar:?]
 	at net.minecraft.class_2487.method_10581(class_2487.java:520) ~[server-intermediary.jar:?]
 	... 47 more
-[20:13:37] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[20:13:38] [Worker-Main-1/INFO]: Preparing spawn area: 7%
-[20:13:38] [Worker-Main-3/INFO]: Preparing spawn area: 56%
-[20:13:39] [Worker-Main-3/INFO]: Preparing spawn area: 84%
-[20:13:39] [Server thread/INFO]: Time elapsed: 9195 ms
-[20:13:39] [Server thread/INFO]: Done (13.619s)! For help, type "help"
-[20:13:39] [Server thread/INFO]: Start loading plugin from Jade
-[20:13:39] [Server thread/INFO]: Start loading plugin from Jade
-[20:13:39] [Server thread/INFO]: Start loading plugin from Jade
-[20:13:39] [Server thread/INFO]: Start loading plugin from Jade
-[20:13:39] [Server thread/INFO]: Start loading plugin from Waystones
-[20:13:39] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[20:13:39] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[20:14:30] [Server thread/INFO]: SimonPro74[/100.90.218.55:49875] logged in with entity id 167 at (743.6999999880791, 95.0625, -8291.341642228286)
-[20:14:30] [Server thread/INFO]: Loading config from file...
-[20:14:31] [Server thread/INFO]: SimonPro74 joined the game
-[20:15:01] [Server thread/INFO]: SimonPro74 lost connection: Timed out
-[20:15:01] [Server thread/INFO]: SimonPro74 left the game
-[20:15:01] [Server thread/WARN]: handleDisconnection() called twice
-[20:15:14] [Server thread/INFO]: SimonPro74[/100.90.218.55:50018] logged in with entity id 490 at (743.6999999880791, 95.0625, -8291.341642228286)
-[20:15:14] [Server thread/INFO]: Loading config from file...
-[20:15:14] [Server thread/INFO]: SimonPro74 joined the game
-[20:17:46] [Server thread/INFO]: badbalta[/100.117.196.25:51064] logged in with entity id 1350 at (679.4050649043822, 134.0, -8710.911856522569)
-[20:17:46] [Server thread/INFO]: Loading config from file...
-[20:17:46] [Server thread/INFO]: badbalta joined the game
-[20:24:32] [Server thread/INFO]: SimonPro74 tried to swim in lava
-[20:25:25] [Server thread/WARN]: SimonPro74 moved too quickly! -0.576286342577319,-12.032610980258184,-0.6206357246956031
-[20:28:01] [Server thread/WARN]: badbalta moved too quickly! -4.759497774643556,0.0,9.020207395673424
-[20:35:51] [Server thread/INFO]: SimonPro74 burned to death
-[20:38:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/10469, l='ServerLevel[world]', x=710.66, y=90.00, z=-8299.47] died, message: 'Toolsmith was slain by Zombie'
-[20:39:00] [Server thread/INFO]: Villager class_1646['Armorer'/10459, l='ServerLevel[world]', x=708.64, y=90.00, z=-8308.21] died, message: 'Armorer was slain by Zombie'
-[20:46:02] [Server thread/INFO]: badbalta was killed
-[20:46:02] [Server thread/INFO]: [badbalta: Killed badbalta]
-[20:49:04] [Server thread/WARN]: badbalta moved too quickly! -6.460660356709468,-2.1661092609382138,7.377576056213002
-[20:49:05] [Server thread/INFO]: badbalta lost connection: Timed out
-[20:49:05] [Server thread/INFO]: badbalta left the game
-[20:49:14] [Server thread/INFO]: badbalta[/100.117.196.25:51110] logged in with entity id 15534 at (679.9219940383291, 130.0, -8678.43004779559)
-[20:49:14] [Server thread/INFO]: Loading config from file...
-[20:49:14] [Server thread/INFO]: badbalta joined the game
-[20:59:33] [Server thread/INFO]: SimonPro74 lost connection: Timed out
-[20:59:33] [Server thread/INFO]: SimonPro74 left the game
-[21:00:00] [Server thread/INFO]: SimonPro74[/100.90.218.55:50192] logged in with entity id 21278 at (741.8249760453341, 95.0625, -8287.72631381181)
-[21:00:00] [Server thread/INFO]: Loading config from file...
-[21:00:00] [Server thread/INFO]: SimonPro74 joined the game
-[21:14:20] [Server thread/INFO]: SimonPro74 has made the advancement [Voluntary Exile]
-[21:14:32] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
-[21:14:37] [Server thread/WARN]: SimonPro74 moved too quickly! 1.1713128894739384,1.083077817806469,10.075439959085998
-[21:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5170ms or 103 ticks behind
-[21:14:50] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
-[21:16:46] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.307861328125
-[21:16:46] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.3050133938777435
-[21:16:46] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.302165459630487
-[21:16:46] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.29804416363913333
-[21:20:52] [Server thread/INFO]: SimonPro74 was slain by Vindicator
-[21:23:49] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
-[21:27:01] [Server thread/WARN]: badbalta moved too quickly! 4.459462829684298,-2.0577875055318415,9.135466294335856
-[21:27:25] [Server thread/INFO]: badbalta has completed the challenge [It Spreads]
-[21:28:12] [Server thread/WARN]: badbalta moved too quickly! 0.42749404209291697,-3.0,9.631752407510248
-[21:28:59] [Server thread/WARN]: badbalta moved too quickly! 2.235024817948556,-9.4900493807652,-3.9477288575590137
-[21:29:46] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
-[21:30:09] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
-[21:30:25] [Server thread/INFO]: [badbalta: Teleported badbalta to 731.500000, 96.500000, -8276.500000]
-[21:30:27] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
-[21:35:43] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
-[21:36:53] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
-[21:39:50] [Server thread/INFO]: SimonPro74 was slain by Vindicator
-[21:39:53] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
-[21:41:14] [Server thread/INFO]: SimonPro74 was slain by Vindicator
-[21:41:17] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
-[21:43:36] [Server thread/INFO]: SimonPro74 was slain by Vindicator
-[21:43:38] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
-[21:44:21] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
-[21:47:15] [Server thread/INFO]: SimonPro74 was slain by Vindicator
-[22:11:06] [Server thread/INFO]: SimonPro74 lost connection: Timed out
-[22:11:06] [Server thread/INFO]: SimonPro74 left the game
-[22:12:41] [Server thread/INFO]: SimonPro74[/100.90.218.55:50473] logged in with entity id 51404 at (708.3957824617949, 90.0, -8302.821070531792)
-[22:12:41] [Server thread/INFO]: Loading config from file...
-[22:12:41] [Server thread/INFO]: SimonPro74 joined the game
-[22:12:53] [Server thread/INFO]: [Not Secure] [Server] hola
-[22:16:26] [Server thread/INFO]: SimonPro74 lost connection: Timed out
-[22:16:26] [Server thread/INFO]: SimonPro74 left the game
-[22:17:09] [Server thread/INFO]: [Not Secure] [Server] hola
-[22:17:29] [Server thread/INFO]: SimonPro74[/100.90.218.55:50668] logged in with entity id 53103 at (714.2773673363993, 94.0, -8311.805740795971)
-[22:17:29] [Server thread/INFO]: Loading config from file...
-[22:17:29] [Server thread/INFO]: SimonPro74 joined the game
-[22:25:40] [Server thread/INFO]: [badbalta: Teleported badbalta to 696.500000, 95.500000, -8262.500000]
-[22:25:56] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
-[22:26:37] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
-[22:27:17] [Server thread/WARN]: badbalta moved too quickly! -7.883878636085228,0.2046003784434305,6.582426375451178
-[22:27:48] [Server thread/WARN]: badbalta moved too quickly! 0.038078499242374164,-0.37673561378173304,10.058391349948579
-[22:29:07] [Server thread/INFO]: SimonPro74 was blown up by Creeper
-[22:29:39] [Server thread/WARN]: badbalta moved too quickly! 9.465764880671372,3.189703340253729,-2.2773289541728445
-[22:33:51] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
-[22:35:08] [Server thread/INFO]: [badbalta: Teleported badbalta to 664.500000, 134.500000, -8692.500000]
-[22:41:21] [Server thread/WARN]: SimonPro74 moved wrongly!
-[22:41:59] [Server thread/INFO]: [Not Secure] <SimonPro74> SIMON PRO ESTA EN CREATIVO
-[22:42:25] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
-[22:42:34] [Server thread/INFO]: [badbalta: Teleported badbalta to 65.500000, 83.500000, -1074.500000]
-[22:42:36] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
-[22:43:57] [Server thread/WARN]: badbalta moved too quickly! 0.17233961583745838,0.0,-10.263615711067587
-[22:44:40] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
-[22:45:15] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
-[22:46:02] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
-[22:47:48] [Server thread/WARN]: badbalta moved too quickly! -3.2888467399322963,-9.866475867527683,-6.644406046234508E-4
-[22:48:09] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:48:09] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:48:09] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:48:36] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:48:59] [Server thread/WARN]: badbalta moved too quickly! -1.6506467749090916,1.0,-9.95635047418773
-[22:49:12] [Server thread/INFO]: Villager class_1646['Cartographer'/65399, l='ServerLevel[world]', x=-1233.00, y=-65.00, z=-1792.53] died, message: 'Cartographer was killed'
-[22:50:33] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/65037, l='ServerLevel[world]', x=-1111.86, y=-20.00, z=-1609.48] died: Restless Spirit was killed
-[22:51:10] [Server thread/INFO]: SimonPro74 has completed the challenge [Subspace Bubble]
-[22:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16281ms or 325 ticks behind
-[22:51:17] [Worker-Main-5/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[22:51:19] [Server thread/INFO]: badbalta has completed the challenge [Subspace Bubble]
-[22:51:21] [Server thread/INFO]: Villager class_1646['Farmer'/65990, l='ServerLevel[world]', x=-8906.64, y=-65.00, z=-12821.78] died, message: 'Farmer was killed'
-[22:51:21] [Server thread/INFO]: Villager class_1646['Farmer'/65991, l='ServerLevel[world]', x=-8906.57, y=-65.00, z=-12822.71] died, message: 'Farmer was killed'
-[22:51:21] [Server thread/INFO]: Villager class_1646['Farmer'/65992, l='ServerLevel[world]', x=-8917.50, y=-65.00, z=-12822.30] died, message: 'Farmer was killed'
-[22:51:21] [Server thread/INFO]: Villager class_1646['Farmer'/65993, l='ServerLevel[world]', x=-8913.70, y=-65.00, z=-12826.49] died, message: 'Farmer was killed'
-[22:51:21] [Server thread/INFO]: Villager class_1646['Farmer'/65994, l='ServerLevel[world]', x=-8913.30, y=-65.00, z=-12826.49] died, message: 'Farmer was killed'
-[22:51:21] [Server thread/INFO]: Villager class_1646['Fisherman'/65997, l='ServerLevel[world]', x=-8941.01, y=-65.00, z=-12822.93] died, message: 'Fisherman was killed'
-[22:51:21] [Server thread/INFO]: Villager class_1646['Armorer'/65999, l='ServerLevel[world]', x=-8957.72, y=-65.00, z=-12822.25] died, message: 'Armorer was killed'
-[22:51:23] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
-[22:51:23] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
-[22:51:23] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
-[22:51:23] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:51:24] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:51:24] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:51:24] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
-[22:51:25] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
-[22:51:25] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
-[22:51:25] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
-[22:51:25] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
-[22:51:26] [Server thread/INFO]: Villager class_1646['Fisherman'/66152, l='ServerLevel[world]', x=-8938.27, y=-65.00, z=-12791.27] died, message: 'Fisherman was killed'
-[22:51:26] [Server thread/INFO]: Villager class_1646['Toolsmith'/66156, l='ServerLevel[world]', x=-8935.16, y=-65.00, z=-12796.59] died, message: 'Toolsmith was killed'
-[22:51:26] [Server thread/INFO]: Villager class_1646['Shepherd'/66157, l='ServerLevel[world]', x=-8933.50, y=-65.00, z=-12798.30] died, message: 'Shepherd was killed'
-[22:51:26] [Server thread/INFO]: Villager class_1646['Librarian'/66158, l='ServerLevel[world]', x=-8936.46, y=-65.00, z=-12796.76] died, message: 'Librarian was killed'
-[22:51:26] [Server thread/INFO]: Villager class_1646['Farmer'/66161, l='ServerLevel[world]', x=-8957.50, y=-65.00, z=-12794.70] died, message: 'Farmer was killed'
-[22:51:26] [Server thread/INFO]: Villager class_1646['Farmer'/66163, l='ServerLevel[world]', x=-8968.36, y=-65.00, z=-12795.22] died, message: 'Farmer was killed'
-[22:51:26] [Server thread/INFO]: Villager class_1646['Farmer'/66164, l='ServerLevel[world]', x=-8968.43, y=-65.00, z=-12794.29] died, message: 'Farmer was killed'
-[22:51:26] [Server thread/INFO]: Villager class_1646['Farmer'/66165, l='ServerLevel[world]', x=-8961.30, y=-65.00, z=-12790.51] died, message: 'Farmer was killed'
-[22:51:26] [Server thread/INFO]: Villager class_1646['Farmer'/66166, l='ServerLevel[world]', x=-8961.70, y=-65.00, z=-12790.51] died, message: 'Farmer was killed'
-[22:51:37] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=202, y=47, z=211}
-[22:51:42] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-8841, y=59, z=-12990} but found not block entity block Block{minecraft:water}[level=8] at location
-[22:51:42] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location class_2338{x=-8841, y=59, z=-12990}
-[22:51:48] [Server thread/INFO]: badbalta lost connection: Timed out
-[22:51:48] [Server thread/INFO]: badbalta left the game
-[22:51:52] [Worker-Main-13/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[22:51:52] [Worker-Main-13/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[22:51:56] [Server thread/INFO]: Villager class_1646['Farmer'/66888, l='ServerLevel[world]', x=-8937.22, y=-65.00, z=-12738.64] died, message: 'Farmer was killed'
-[22:51:56] [Server thread/INFO]: Villager class_1646['Farmer'/66889, l='ServerLevel[world]', x=-8936.29, y=-65.00, z=-12738.57] died, message: 'Farmer was killed'
-[22:51:56] [Server thread/INFO]: Villager class_1646['Farmer'/66890, l='ServerLevel[world]', x=-8936.70, y=-65.00, z=-12749.50] died, message: 'Farmer was killed'
-[22:51:56] [Server thread/INFO]: Villager class_1646['Farmer'/66891, l='ServerLevel[world]', x=-8932.51, y=-65.00, z=-12745.70] died, message: 'Farmer was killed'
-[22:51:56] [Server thread/INFO]: Villager class_1646['Farmer'/66892, l='ServerLevel[world]', x=-8932.51, y=-65.00, z=-12745.30] died, message: 'Farmer was killed'
-[22:52:00] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=186, y=-6, z=458}
-[22:52:00] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=182, y=-6, z=460}
-[22:52:00] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=180, y=-6, z=458}
-[22:52:04] [Server thread/INFO]: badbalta[/100.117.196.25:51280] logged in with entity id 67080 at (-8885.0346481217, 96.0, -12902.442127350954)
-[22:52:04] [Server thread/INFO]: Loading config from file...
-[22:52:04] [Server thread/INFO]: badbalta joined the game
-[22:52:05] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=-204, y=57, z=-81}
-[22:52:05] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=-205, y=57, z=-81}
-[22:52:05] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=-206, y=57, z=-81}
-[22:52:05] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=-207, y=57, z=-81}
-[22:52:05] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=-208, y=57, z=-81}
-[22:52:10] [Server thread/INFO]: Villager class_1646['Leatherworker'/67194, l='ServerLevel[world]', x=-9079.30, y=-65.00, z=-12928.50] died, message: 'Leatherworker was killed'
-[22:52:24] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
-[22:52:24] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
-[22:52:24] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
-[22:52:24] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
-[22:56:01] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
-[22:56:33] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
-[22:56:33] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:56:33] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:56:33] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:56:33] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:56:33] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:56:33] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:56:33] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
-[22:56:46] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:56:46] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:56:46] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:56:46] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:56:46] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:56:46] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:56:46] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:56:46] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:56:46] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:56:46] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:56:46] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:56:46] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:59:20] [Server thread/INFO]: badbalta lost connection: Timed out
-[22:59:20] [Server thread/INFO]: badbalta left the game
-[22:59:39] [Server thread/INFO]: badbalta[/100.117.196.25:51394] logged in with entity id 69584 at (-8771.964945858386, 108.0, -13016.78537530158)
-[22:59:39] [Server thread/INFO]: Loading config from file...
-[22:59:39] [Server thread/INFO]: badbalta joined the game
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
-[23:00:12] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
-[23:00:12] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
-[23:00:12] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
-[23:00:12] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-57, z=10}
-[23:00:12] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=8}
-[23:00:12] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=9}
-[23:00:12] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=47, y=-58, z=2}
-[23:00:12] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-57, z=2}
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:12] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-59, z=7}
-[23:00:12] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:00:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:00:24] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
-[23:00:24] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
-[23:00:24] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
-[23:00:24] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
-[23:00:24] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=7, y=-52, z=-56}
-[23:00:33] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=4, y=-52, z=-58}
-[23:00:33] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=4, y=-52, z=-55}
-[23:00:45] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-8428, y=31, z=-13091} but found not block entity block Block{minecraft:water}[level=1] at location
-[23:00:45] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location class_2338{x=-8428, y=31, z=-13091}
-[23:01:05] [Worker-Main-5/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[23:01:05] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=203, y=48, z=159}
-[23:01:09] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-57, z=10}
-[23:01:09] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=8}
-[23:01:09] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=9}
-[23:01:09] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=47, y=-58, z=2}
-[23:01:09] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-57, z=2}
-[23:01:09] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:01:09] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:01:09] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:01:09] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:01:09] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:01:09] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:01:09] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-59, z=7}
-[23:01:09] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
-[23:01:09] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:01:09] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:01:16] [Worker-Main-12/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[23:01:18] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=-162, y=-12, z=171}
-[23:01:39] [Worker-Main-12/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[23:01:39] [Worker-Main-12/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[23:02:15] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
-[23:02:15] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:02:15] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:15] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:02:15] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:15] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:02:15] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:15] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:02:15] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:15] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
-[23:02:15] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:02:15] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:15] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:02:15] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:15] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:02:15] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:15] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:02:15] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:15] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[23:02:15] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:21] [Server thread/WARN]: badbalta moved too quickly! -0.7433154575683147,-9.019574559399842,-4.301238587993794
-[23:02:21] [Server thread/INFO]: [badbalta: Teleported badbalta to -8905.500000, 78.500000, -12871.500000]
-[23:02:26] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:26] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:26] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:26] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:26] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[23:02:52] [Server thread/WARN]: SimonPro74 moved too quickly! -2.4470755271795497,2.8757771118669027,-9.37703486265309
-[23:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18852ms or 377 ticks behind
-[23:03:01] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
-[23:04:06] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/72273, l='ServerLevel[world]', x=-1136.43, y=61.00, z=-1486.57] died: Headless Warrior was slain by Piglin Brute
-[23:04:09] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/71793, l='ServerLevel[world]', x=-1059.52, y=-20.00, z=-1550.66] died: Restless Spirit was killed
-[23:04:43] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/72834, l='ServerLevel[world]', x=-1146.52, y=62.00, z=-1485.12] died: Headless Warrior was slain by Piglin Brute
-[23:05:19] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/73058, l='ServerLevel[world]', x=-1135.50, y=61.00, z=-1491.24] died: Headless Warrior was slain by Piglin Brute
-[23:05:23] [Server thread/INFO]: badbalta lost connection: Timed out
-[23:05:23] [Server thread/INFO]: badbalta left the game
-[23:06:19] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/72163, l='ServerLevel[world]', x=-1130.54, y=-20.00, z=-1567.89] died: Restless Spirit was killed
-[23:07:13] [Server thread/INFO]: Stopping the server
-[23:07:13] [Server thread/INFO]: Stopping server
-[23:07:13] [Server thread/INFO]: Saving players
-[23:07:13] [Server thread/INFO]: Saving worlds
-[23:07:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:07:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:07:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:07:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[23:07:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:07:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:07:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:07:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[23:07:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:07:15] [Server thread/INFO]: Unloading server config for barteringstation
-[23:07:15] [Server thread/INFO]: Unloading server config for easyanvils
-[23:07:15] [Server thread/INFO]: Unloading server config for easymagic
-[23:07:15] [Server thread/INFO]: Unloading server config for hangglider
-[23:07:15] [Server thread/INFO]: Unloading server config for iteminteractions
+[23:19:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:19:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:19:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:19:32] [Worker-Main-1/INFO]: Preparing spawn area: 80%
+[23:19:32] [Server thread/INFO]: Time elapsed: 6136 ms
+[23:19:32] [Server thread/INFO]: Done (9.740s)! For help, type "help"
+[23:19:32] [Server thread/INFO]: Start loading plugin from Jade
+[23:19:32] [Server thread/INFO]: Start loading plugin from Jade
+[23:19:32] [Server thread/INFO]: Start loading plugin from Jade
+[23:19:32] [Server thread/INFO]: Start loading plugin from Jade
+[23:19:32] [Server thread/INFO]: Start loading plugin from Waystones
+[23:19:32] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[23:19:32] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[23:19:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:19:32] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/MineBad1.5.6/msx.py<--[HERE]
+[23:24:42] [Server thread/INFO]: Stopping the server
+[23:24:42] [Server thread/INFO]: Stopping server
+[23:24:42] [Server thread/INFO]: Saving players
+[23:24:42] [Server thread/INFO]: Saving worlds
+[23:24:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:24:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[23:24:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:24:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:24:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:24:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[23:24:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:24:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:24:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:24:42] [Server thread/INFO]: Unloading server config for barteringstation
+[23:24:42] [Server thread/INFO]: Unloading server config for easyanvils
+[23:24:42] [Server thread/INFO]: Unloading server config for easymagic
+[23:24:42] [Server thread/INFO]: Unloading server config for hangglider
+[23:24:42] [Server thread/INFO]: Unloading server config for iteminteractions
