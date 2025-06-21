@@ -932,3 +932,11 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [22:17:29] [Server thread/INFO]: SimonPro74[/100.90.218.55:50668] logged in with entity id 53103 at (714.2773673363993, 94.0, -8311.805740795971)
 [22:17:29] [Server thread/INFO]: Loading config from file...
 [22:17:29] [Server thread/INFO]: SimonPro74 joined the game
+[22:25:40] [Server thread/INFO]: [badbalta: Teleported badbalta to 696.500000, 95.500000, -8262.500000]
+[22:25:56] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[22:26:37] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[22:27:17] [Server thread/WARN]: badbalta moved too quickly! -7.883878636085228,0.2046003784434305,6.582426375451178
+[22:27:48] [Server thread/WARN]: badbalta moved too quickly! 0.038078499242374164,-0.37673561378173304,10.058391349948579
+[22:29:07] [Server thread/INFO]: SimonPro74 was blown up by Creeper
+[22:29:39] [Server thread/WARN]: badbalta moved too quickly! 9.465764880671372,3.189703340253729,-2.2773289541728445
+[22:33:51] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
