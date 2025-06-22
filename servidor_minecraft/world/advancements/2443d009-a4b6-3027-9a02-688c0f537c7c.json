@@ -10543,6 +10543,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bat_smithing": {
+    "criteria": {
+      "has_bat": "2025-06-22 05:38:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-06-22 05:05:41 +0000"

@@ -10463,6 +10463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-22 05:27:56 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass_blue2": {
     "criteria": {
       "recipe_condition2": "2025-06-22 05:03:09 +0000"
@@ -10528,6 +10534,12 @@
       "has_blue_dye": "2025-06-22 05:03:09 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-06-22 05:27:09 +0000"
+    },
+    "done": false
   },
   "connectedglass:recipes/misc/scratched_glass_light_gray2": {
     "criteria": {
