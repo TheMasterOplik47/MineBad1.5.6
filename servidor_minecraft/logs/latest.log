@@ -149,3 +149,31 @@
 [01:27:15] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.8413260004799668
 [01:27:15] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.28887162358842033
 [01:27:15] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.7374361522033723
+[01:30:18] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-197, y=-7, z=153}
+[01:30:18] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-193, y=-11, z=153}
+[01:30:18] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-188, y=-11, z=150}
+[01:30:18] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-186, y=-10, z=154}
+[01:30:18] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-187, y=-10, z=146}
+[01:30:23] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[01:30:23] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[01:30:23] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[01:30:23] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[01:30:25] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.3721207752114424
+[01:30:25] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.7740308366319368
+[01:30:25] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.1804392129342887
+[01:30:25] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.5949642058385507
+[01:30:25] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.0216830797035072
+[01:30:25] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.460023399462443
+[01:30:25] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.9062154563798686
+[01:30:25] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.9375
+[01:31:03] [Worker-Main-3/WARN]: Skipping Entity with id 
+[01:33:31] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-196, y=56, z=-101}
+[01:33:31] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-199, y=56, z=-101}
+[01:33:49] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-204, y=56, z=-106}
+[01:33:50] [Server thread/INFO]: Villager class_1646['Leatherworker'/52112, l='ServerLevel[world]', x=-13262.50, y=-65.00, z=-14023.30] died, message: 'Leatherworker was killed'
+[01:34:21] [Server thread/INFO]: Villager class_1646['Bandit'/53195, l='ServerLevel[world]', x=-13004.50, y=-65.00, z=-14011.50] died, message: 'Bandit was killed'
+[01:34:21] [Server thread/INFO]: Named entity class_1646['Bandit'/53195, l='ServerLevel[world]', x=-13004.50, y=-65.00, z=-14011.50] died: Bandit was killed
+[01:34:22] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[01:35:23] [Server thread/INFO]: Villager class_1646['Leatherworker'/55282, l='ServerLevel[world]', x=-13060.50, y=-65.00, z=-13978.70] died, message: 'Leatherworker was killed'
+[01:35:39] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[01:36:34] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
