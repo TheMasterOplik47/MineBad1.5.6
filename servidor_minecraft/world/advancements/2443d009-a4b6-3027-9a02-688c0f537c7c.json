@@ -32,8 +32,10 @@
       "minecraft:birch_forest": "2025-06-04 18:10:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-21 22:51:18 +0000",
       "minecraft:bamboo_jungle": "2025-06-04 18:34:52 +0000",
+      "minecraft:wooded_badlands": "2025-06-22 00:58:29 +0000",
       "minecraft:warm_ocean": "2025-06-05 19:19:20 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-04 18:23:53 +0000",
+      "minecraft:badlands": "2025-06-22 01:00:27 +0000",
       "minecraft:flower_forest": "2025-06-12 22:27:36 +0000",
       "minecraft:savanna_plateau": "2025-06-12 20:04:17 +0000",
       "minecraft:beach": "2025-06-03 20:57:12 +0000",
@@ -10294,21 +10296,9 @@
     },
     "done": true
   },
-  "incendium:withered_forest/kill_spirit": {
-    "criteria": {
-      "requirement": "2025-06-21 23:34:21 +0000"
-    },
-    "done": true
-  },
   "incendium:misc/ruined_lab": {
     "criteria": {
       "requirement": "2025-06-21 23:32:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
-    "criteria": {
-      "has_polished_blackstone_slab": "2025-06-21 23:55:01 +0000"
     },
     "done": true
   },
@@ -10321,6 +10311,18 @@
   "minecraft:recipes/decorations/crimson_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-21 23:32:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/kill_spirit": {
+    "criteria": {
+      "requirement": "2025-06-21 23:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-06-21 23:55:01 +0000"
     },
     "done": true
   },

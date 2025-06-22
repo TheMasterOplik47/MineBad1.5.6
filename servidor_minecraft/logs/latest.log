@@ -29,3 +29,43 @@
 [00:19:58] [Server thread/INFO]: Villager class_1646['Librarian'/15140, l='ServerLevel[world]', x=-12753.50, y=-9.44, z=-13804.50] died, message: 'Librarian suffocated in a wall'
 [00:19:58] [Server thread/INFO]: Villager class_1646['Librarian'/15128, l='ServerLevel[world]', x=-12743.50, y=-9.44, z=-13804.50] died, message: 'Librarian suffocated in a wall'
 [00:26:40] [Server thread/INFO]: Villager class_1646['Fisherman'/15142, l='ServerLevel[world]', x=-12735.34, y=-12.00, z=-13770.26] died, message: 'Fisherman was slain by Zombie'
+[00:49:59] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[00:49:59] [Server thread/INFO]: SimonPro74 left the game
+[00:50:09] [Server thread/INFO]: SimonPro74[/127.159.110.206:49247] logged in with entity id 19198 at (-12727.699999988079, -21.0, -13742.300000011921)
+[00:50:09] [Server thread/INFO]: Loading config from file...
+[00:50:09] [Server thread/INFO]: SimonPro74 joined the game
+[00:50:16] [Server thread/INFO]: badbalta[/127.159.110.206:35505] logged in with entity id 19557 at (678.3266344823367, 134.0, -8717.092595125197)
+[00:50:16] [Server thread/INFO]: Loading config from file...
+[00:50:16] [Server thread/INFO]: badbalta joined the game
+[00:51:26] [Server thread/INFO]: [Not Secure] [Server] hola
+[00:52:26] [Server thread/INFO]: badbalta lost connection: Disconnected
+[00:52:26] [Server thread/INFO]: badbalta left the game
+[00:56:23] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=578, y=-26, z=-305}
+[00:56:23] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=577, y=-14, z=-306}
+[00:56:23] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=576, y=-28, z=-303}
+[00:56:23] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=578, y=-28, z=-303}
+[00:56:23] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=578, y=-27, z=-303}
+[00:56:23] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=576, y=-14, z=-304}
+[00:57:20] [Server thread/INFO]: Villager class_1646['Bandit'/21730, l='ServerLevel[world]', x=-12991.50, y=-65.00, z=-14031.50] died, message: 'Bandit was killed'
+[00:57:20] [Server thread/INFO]: Named entity class_1646['Bandit'/21730, l='ServerLevel[world]', x=-12991.50, y=-65.00, z=-14031.50] died: Bandit was killed
+[00:57:20] [Server thread/INFO]: Villager class_1646['Fletcher'/21731, l='ServerLevel[world]', x=-12985.69, y=-65.00, z=-14038.59] died, message: 'Fletcher was killed'
+[00:57:37] [Server thread/INFO]: Villager class_1646['Leatherworker'/22041, l='ServerLevel[world]', x=-12663.27, y=-65.00, z=-14325.69] died, message: 'Leatherworker was killed'
+[00:57:38] [Server thread/INFO]: Villager class_1646['Cartographer'/22052, l='ServerLevel[world]', x=-12709.43, y=-65.00, z=-14321.70] died, message: 'Cartographer was killed'
+[00:57:38] [Server thread/INFO]: Villager class_1646['Fletcher'/22053, l='ServerLevel[world]', x=-12709.24, y=-65.00, z=-14328.37] died, message: 'Fletcher was killed'
+[00:57:38] [Server thread/INFO]: Villager class_1646['Fletcher'/22054, l='ServerLevel[world]', x=-12707.29, y=-65.00, z=-14328.84] died, message: 'Fletcher was killed'
+[00:57:38] [Server thread/INFO]: Villager class_1646['Leatherworker'/22055, l='ServerLevel[world]', x=-12710.52, y=-65.00, z=-14321.70] died, message: 'Leatherworker was killed'
+[00:57:38] [Server thread/INFO]: Villager class_1646['Cartographer'/22057, l='ServerLevel[world]', x=-12710.03, y=-65.00, z=-14322.39] died, message: 'Cartographer was killed'
+[00:57:38] [Server thread/INFO]: Villager class_1646['Fletcher'/22059, l='ServerLevel[world]', x=-12733.63, y=-65.00, z=-14324.24] died, message: 'Fletcher was killed'
+[00:57:38] [Server thread/INFO]: Villager class_1646['Fletcher'/22060, l='ServerLevel[world]', x=-12733.16, y=-65.00, z=-14322.29] died, message: 'Fletcher was killed'
+[00:57:38] [Server thread/INFO]: Villager class_1646['Cartographer'/22064, l='ServerLevel[world]', x=-12740.30, y=-65.00, z=-14324.43] died, message: 'Cartographer was killed'
+[00:57:38] [Server thread/INFO]: Villager class_1646['Leatherworker'/22065, l='ServerLevel[world]', x=-12740.30, y=-65.00, z=-14325.52] died, message: 'Leatherworker was killed'
+[00:57:38] [Server thread/INFO]: Villager class_1646['Cartographer'/22066, l='ServerLevel[world]', x=-12739.61, y=-65.00, z=-14325.03] died, message: 'Cartographer was killed'
+[00:59:58] [Server thread/INFO]: Villager class_1646['Cartographer'/22126, l='ServerLevel[world]', x=-12741.50, y=3.56, z=-14320.50] died, message: 'Cartographer suffocated in a wall'
+[01:00:13] [Worker-Main-3/WARN]: Skipping Entity with id 
+[01:01:03] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=203, y=48, z=159}
+[01:01:03] [Server thread/INFO]: Villager class_1646['Leatherworker'/23790, l='ServerLevel[world]', x=-13054.50, y=-65.00, z=-14071.30] died, message: 'Leatherworker was killed'
+[01:02:46] [Server thread/INFO]: badbalta[/127.159.110.206:58299] logged in with entity id 24056 at (678.0297359692362, 134.0, -8715.312091349342)
+[01:02:46] [Server thread/INFO]: Loading config from file...
+[01:02:46] [Server thread/INFO]: badbalta joined the game
+[01:06:31] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[01:07:04] [Server thread/INFO]: [Not Secure] <SimonPro74> veniiiiiiiiiiiiiii
