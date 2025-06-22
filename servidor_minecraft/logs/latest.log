@@ -865,3 +865,34 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [04:36:16] [Server thread/INFO]: badbalta joined the game
 [04:36:27] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
 [04:39:47] [Server thread/INFO]: SimonPro74 was slain by Vindicator
+[04:49:32] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=202, y=-11, z=-113}
+[04:49:32] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=204, y=-11, z=-110}
+[04:49:50] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.27270702132409497
+[04:49:50] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.7077383565465425
+[04:49:50] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.150165065226247
+[04:49:50] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.5965488907950203
+[04:49:50] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.04505009071363
+[04:49:50] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.4946842554309114
+[04:49:50] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.944924647024891
+[04:49:50] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.39548941853172437
+[04:50:00] [Server thread/INFO]: Villager class_1646['Unemployed'/6464, l='ServerLevel[world]', x=-13768.72, y=58.00, z=-14335.63] died, message: 'Unemployed suffocated in a wall'
+[04:50:02] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-57, z=10}
+[04:50:02] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=8}
+[04:50:02] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=9}
+[04:50:02] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=47, y=-58, z=2}
+[04:50:02] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-57, z=2}
+[04:50:02] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:50:02] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:50:02] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:50:02] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:50:02] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:50:02] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:50:02] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-59, z=7}
+[04:50:02] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
+[04:50:02] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:50:02] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:50:07] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[04:50:07] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[04:50:07] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[04:50:07] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[04:50:52] [Server thread/INFO]: Villager class_1646['Unemployed'/6498, l='ServerLevel[world]', x=-13779.72, y=57.00, z=-14334.63] died, message: 'Unemployed suffocated in a wall'
