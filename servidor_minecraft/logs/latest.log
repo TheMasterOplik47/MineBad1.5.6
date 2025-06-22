@@ -69,3 +69,29 @@
 [01:02:46] [Server thread/INFO]: badbalta joined the game
 [01:06:31] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
 [01:07:04] [Server thread/INFO]: [Not Secure] <SimonPro74> veniiiiiiiiiiiiiii
+[01:08:54] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=247, y=-11, z=-115}
+[01:10:26] [Server thread/INFO]: mookaMC (/127.21.29.106:47367) lost connection: Disconnected
+[01:11:30] [Worker-Main-1/WARN]: Skipping Entity with id 
+[01:11:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:11:44] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:11:44] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:11:44] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:11:48] [Server thread/INFO]: Villager class_1646['Leatherworker'/29762, l='ServerLevel[world]', x=-13415.30, y=-65.00, z=-14832.50] died, message: 'Leatherworker was killed'
+[01:12:02] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:12:02] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:12:03] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:12:03] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:12:03] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:12:08] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:12:08] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:12:08] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:15:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:15:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:15:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:15:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:15:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:15:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:15:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:15:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:15:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:17:10] [Server thread/INFO]: [badbalta: Teleported badbalta to -12819.500000, 133.500000, -14820.500000]
