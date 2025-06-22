@@ -20,3 +20,9 @@
 [00:04:12] [Server thread/INFO]: badbalta burned to death
 [00:04:55] [Server thread/INFO]: badbalta lost connection: Disconnected
 [00:04:55] [Server thread/INFO]: badbalta left the game
+[00:14:03] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:14:03] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:14:03] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:14:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11127ms or 222 ticks behind
+[00:14:10] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/14009, l='ServerLevel[world]', x=-1516.62, y=52.00, z=-1663.73] died: Headless Warrior was slain by Piglin
+[00:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3477ms or 69 ticks behind
