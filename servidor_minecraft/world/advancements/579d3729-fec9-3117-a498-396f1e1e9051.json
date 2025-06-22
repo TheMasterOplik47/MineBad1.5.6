@@ -10355,5 +10355,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-06-22 01:12:48 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/misc/mutagen_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-06-22 01:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-06-22 01:18:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

@@ -95,3 +95,57 @@
 [01:15:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [01:15:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [01:17:10] [Server thread/INFO]: [badbalta: Teleported badbalta to -12819.500000, 133.500000, -14820.500000]
+[01:17:34] [Server thread/INFO]: Villager class_1646['Leatherworker'/35010, l='ServerLevel[world]', x=-13095.30, y=-65.00, z=-15168.50] died, message: 'Leatherworker was killed'
+[01:17:38] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=22, y=-11, z=-129}
+[01:17:38] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=21, y=-11, z=-129}
+[01:17:39] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=22, y=-11, z=-115}
+[01:17:40] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=11, y=-12, z=-131}
+[01:17:40] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=11, y=-12, z=-116}
+[01:17:44] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.362985089126596
+[01:17:44] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.7752236534288386
+[01:17:44] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.1880085988923383
+[01:17:44] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.5953765807043965
+[01:17:44] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.2847701858208893
+[01:17:44] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.6615613261708044
+[01:18:45] [Server thread/INFO]: Villager class_1646['Leatherworker'/36523, l='ServerLevel[world]', x=-13104.50, y=-65.00, z=-15335.70] died, message: 'Leatherworker was killed'
+[01:19:49] [Server thread/INFO]: Villager class_1646['Leatherworker'/37787, l='ServerLevel[world]', x=-13079.70, y=-65.00, z=-15438.50] died, message: 'Leatherworker was killed'
+[01:20:29] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=247, y=-11, z=-115}
+[01:20:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.39932928367306886
+[01:20:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.8381254749529035
+[01:20:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.278586780978003
+[01:20:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.719939056703879
+[01:20:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.0
+[01:25:45] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[01:27:01] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.31793018931239203
+[01:27:01] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.7600005463336856
+[01:27:03] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.2676467527253408
+[01:27:03] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.6928544176626019
+[01:27:03] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.1180613910510147
+[01:27:03] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.543267994406051
+[01:27:03] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.9684743997640908
+[01:27:03] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.40899105339218866
+[01:27:03] [Server thread/INFO]: Villager class_1646['Leatherworker'/44486, l='ServerLevel[world]', x=-13687.30, y=-65.00, z=-14864.50] died, message: 'Leatherworker was killed'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:27:05] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:27:05] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:27:05] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
+[01:27:15] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.395684588684162
+[01:27:15] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.8413260004799668
+[01:27:15] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.28887162358842033
+[01:27:15] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.7374361522033723
