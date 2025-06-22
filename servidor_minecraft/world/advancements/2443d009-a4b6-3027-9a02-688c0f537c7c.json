@@ -10465,6 +10465,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-06-22 05:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-06-22 05:05:10 +0000"
@@ -10519,6 +10525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-06-22 05:18:04 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/copper_stuff": {
     "criteria": {
       "has_wood": "2025-06-22 05:05:10 +0000"
@@ -10540,6 +10552,12 @@
   "minecraft:recipes/decorations/brown_candle": {
     "criteria": {
       "has_brown_dye": "2025-06-22 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-06-22 05:17:48 +0000"
     },
     "done": true
   },

@@ -1005,3 +1005,22 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [05:19:54] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
 [05:19:54] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
 [05:19:54] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[05:24:43] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.384765625
+[05:24:43] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.384765625
+[05:24:44] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.384765625
+[05:24:44] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.384765625
+[05:24:44] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.40417103053732717
+[05:24:51] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[05:24:53] [Server thread/INFO]: SimonPro74 suffocated in a wall
+[05:24:58] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[05:26:33] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[05:27:03] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:27:36] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.47201100657184725
+[05:27:36] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.9322999209180125
+[05:27:36] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.36212396509654354
+[05:27:36] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.748249781814593
+[05:27:36] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.0907787538344564
+[05:27:36] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.413251555246461
+[05:29:09] [Server thread/INFO]: [badbalta: Teleported badbalta to 733.500000, 96.500000, -8277.500000]
+[05:29:12] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[05:30:08] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
