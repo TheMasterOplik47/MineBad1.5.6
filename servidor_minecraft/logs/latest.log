@@ -26,3 +26,6 @@
 [00:14:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11127ms or 222 ticks behind
 [00:14:10] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/14009, l='ServerLevel[world]', x=-1516.62, y=52.00, z=-1663.73] died: Headless Warrior was slain by Piglin
 [00:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3477ms or 69 ticks behind
+[00:19:58] [Server thread/INFO]: Villager class_1646['Librarian'/15140, l='ServerLevel[world]', x=-12753.50, y=-9.44, z=-13804.50] died, message: 'Librarian suffocated in a wall'
+[00:19:58] [Server thread/INFO]: Villager class_1646['Librarian'/15128, l='ServerLevel[world]', x=-12743.50, y=-9.44, z=-13804.50] died, message: 'Librarian suffocated in a wall'
+[00:26:40] [Server thread/INFO]: Villager class_1646['Fisherman'/15142, l='ServerLevel[world]', x=-12735.34, y=-12.00, z=-13770.26] died, message: 'Fisherman was slain by Zombie'
